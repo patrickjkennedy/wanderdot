@@ -1,0 +1,104 @@
+#about{
+  font-family: 'Georgia';
+  font-size: 120%;
+}
+
+
+#quote {
+  margin-top:70px;
+  font-family: 'Courier New';
+}
+
+#quote-en {
+  margin-top:10px;
+  font-family: 'Courier New';
+  font-style: italic;
+}
+
+#klee {
+  margin-top:10px;
+  font-family: 'Courier New';
+  font-style: italic;
+}
+
+body {
+ padding-top: 70px;
+ font-family: 'Courier New';
+}
+
+#city {
+  height: 85vh;
+  width: available;
+  margin-bottom:20px;
+}
+
+#sea {
+  height: 85vh;
+  width: available;
+  margin-bottom:20px;
+}
+
+.img-responsive {
+    margin: 0;
+    width: auto;
+}
+
+footer{
+  color:grey;
+  font-family: 'Courier New';
+}
+
+.wrapper {
+  position: relative;
+  height: 85vh;
+  width: available;
+  margin-bottom:20px;
+  display:block;
+}
+
+.text:hover {
+    opacity:1;
+}
+
+.navbar{
+  font-family: 'Courier New'
+  }
+
+.page-header{
+  font-family: 'Courier New'
+  }
+
+.instructions{
+    font-family: 'Courier New';
+    font-size: large
+}
+
+.text {
+    position: absolute;
+    font-family: 'Courier New';
+    top:0;
+    color:grey;
+    background-color:rgba(255,255,255,0.8);
+    width: 100%;
+    height: 85vh;
+    line-height:75vh;
+    text-align: center;
+    font-size: 300%;
+    z-index: 10;
+    opacity: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.form-horizontal {
+  font-family: 'Courier New';
+}
+
+#contact-pic {
+  float:right;
+
+}
+
+
